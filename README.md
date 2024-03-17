@@ -11,7 +11,7 @@ This webpage underwent a reformatting process to meet the user's acceptance crit
 
 ## Deployment
 
-Provided as a link here - [Module 01](Your_REPO_LINK)
+LIVE DEMO - [Module 01](https://vgalante2.github.io/codeRefactored/)
 
 ## Usage
 
