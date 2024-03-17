@@ -7,9 +7,7 @@
 This webpage underwent a reformatting process to meet the user's acceptance criteria regarding their web presence. The code was refined and optimized to more effectively represent search engine optimization for the marketing company, Horiseon. Minor modifications were implemented in tags and elements to ensure a consistent style alongside the naming of images. Comments were strategically placed throughout the code to clearly delineate various sections and their purposes. Overall, the webpage's visual appearance remains largely unchanged from the original code provided for enhancement.
 ## Visuals
 
-<img src="./assets/images/website-module-visual-1.png" >
-
-<img src="./assets/images/website-module-visual-2.png" >
+![webpage-img](https://github.com/vgalante2/codeRefactored/assets/100490521/bc6d5e19-1c1a-44ad-9ca8-754cf6cfd08f)
 
 ## Deployment
 
